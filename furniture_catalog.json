@@ -1,8 +1,48 @@
 {
-  "Articles": [],
-  "FurnitureBrands": ["Stublina", "Hopo", "Xingxangxing", "Roto", "Master"],
-  "Profiles": ["v.01", "v.02", "Provedal"],
-  "WindowTypes": ["поворотно-откидное", "фрамуга", "поворотное", "штульповое"],
-  "Colors": ["Неокрас", "Белый", "Серебро", "Черный"],
-  "OpeningSides": ["Левая", "Правая"]
+  "Articles": [
+    {
+      "ArticleCode": "1",
+      "Name": "123",
+      "Quantity": 1,
+      "Price": 1,
+      "MinWidth": 0,
+      "MaxWidth": 3000,
+      "MinHeight": 0,
+      "MaxHeight": 3000,
+      "Profile": "v.01",
+      "IsHidden": false,
+      "WindowType": "\u043F\u043E\u0432\u043E\u0440\u043E\u0442\u043D\u043E-\u043E\u0442\u043A\u0438\u0434\u043D\u043E\u0435",
+      "FurnitureBrand": "Stublina",
+      "Color": "\u041D\u0435\u043E\u043A\u0440\u0430\u0441",
+      "OpeningSide": "\u041B\u0435\u0432\u0430\u044F"
+    }
+  ],
+  "FurnitureBrands": [
+    "Stublina",
+    "Hopo",
+    "Xingxangxing",
+    "Roto",
+    "Master"
+  ],
+  "Profiles": [
+    "v.01",
+    "v.02",
+    "Provedal"
+  ],
+  "WindowTypes": [
+    "\u043F\u043E\u0432\u043E\u0440\u043E\u0442\u043D\u043E-\u043E\u0442\u043A\u0438\u0434\u043D\u043E\u0435",
+    "\u0444\u0440\u0430\u043C\u0443\u0433\u0430",
+    "\u043F\u043E\u0432\u043E\u0440\u043E\u0442\u043D\u043E\u0435",
+    "\u0448\u0442\u0443\u043B\u044C\u043F\u043E\u0432\u043E\u0435"
+  ],
+  "Colors": [
+    "\u041D\u0435\u043E\u043A\u0440\u0430\u0441",
+    "\u0411\u0435\u043B\u044B\u0439",
+    "\u0421\u0435\u0440\u0435\u0431\u0440\u043E",
+    "\u0427\u0435\u0440\u043D\u044B\u0439"
+  ],
+  "OpeningSides": [
+    "\u041B\u0435\u0432\u0430\u044F",
+    "\u041F\u0440\u0430\u0432\u0430\u044F"
+  ]
 }
