@@ -1,0 +1,8 @@
+{
+  "Articles": [],
+  "FurnitureBrands": ["Stublina", "Hopo", "Xingxangxing", "Roto", "Master"],
+  "Profiles": ["v.01", "v.02", "Provedal"],
+  "WindowTypes": ["поворотно-откидное", "фрамуга", "поворотное", "штульповое"],
+  "Colors": ["Неокрас", "Белый", "Серебро", "Черный"],
+  "OpeningSides": ["Левая", "Правая"]
+}
