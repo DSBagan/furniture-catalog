@@ -1,16 +1,16 @@
 {
   "Articles": [
     {
-      "ArticleCode": "1",
-      "Name": "123",
+      "ArticleCode": "213",
+      "Name": "rew",
       "Quantity": 1,
-      "Price": 1,
+      "Price": 2,
       "MinWidth": 0,
-      "MaxWidth": 3000,
+      "MaxWidth": 1000,
       "MinHeight": 0,
-      "MaxHeight": 3000,
+      "MaxHeight": 1000,
       "Profile": "v.01",
-      "IsHidden": false,
+      "IsHidden": true,
       "WindowType": "\u043F\u043E\u0432\u043E\u0440\u043E\u0442\u043D\u043E-\u043E\u0442\u043A\u0438\u0434\u043D\u043E\u0435",
       "FurnitureBrand": "Stublina",
       "Color": "\u041D\u0435\u043E\u043A\u0440\u0430\u0441",
